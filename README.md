@@ -1,2 +1,3 @@
-# vip_reg_key_clear
-Reg key clear
+# Reg key clear
+
+Removing key from registry AutoLoad
